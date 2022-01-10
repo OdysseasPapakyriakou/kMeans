@@ -3,7 +3,7 @@ Name: Odysseas Papakyriakou
 BACKGROUND INFORMATION:
 
 This is a project I created as part of the requirements of a course in Data Processing
-at the University of Amsterdam. The aim was to read, transform, analize, and visualize
+at the University of Amsterdam. The aim was to read, transform, analyze, and visualize
 a dataset of our choice, by defining our own research question. 
 
 INSTRUCTIONS TO RUN THE PROGRAM:
